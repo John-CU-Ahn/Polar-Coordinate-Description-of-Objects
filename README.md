@@ -1,5 +1,4 @@
 # Polar-Coordinate-Description-of-Objects
-This code is designed to translate an object from an image into a polar coordinate description.
 
 ## Description
 Microscopy is a powerful tool in biology, allowing observations of biological phenomenon on the micron scale.
